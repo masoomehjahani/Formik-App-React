@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "mastan",
+      "email": "m@gmail.com",
+      "phoneNumber": "09128883335",
+      "password": "Ma@st123",
+      "passwordConfirm": "Ma@st123",
+      "gender": "1",
+      "nationality": "US",
+      "intrests": [
+        "R"
+      ],
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
